@@ -1,0 +1,6 @@
+## ENVS
+
+```dotenv
+TELEGRAM_CHAT_ID=
+TELEGRAM_TOKEN=
+```
